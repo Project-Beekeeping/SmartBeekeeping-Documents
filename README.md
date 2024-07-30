@@ -49,6 +49,7 @@ A detailed report summarizing the findings and analyses from the project, especi
 
 ### 5. Project Poster
 **File Name:** `SmartNyuki_Poster.pdf
+**Link:** <a href="https://www.canva.com/design/DAGEYNeNJoM/T-hf5ynSJ80LiRt7SXnSFw/edit" target="_blank">View Project Poster on Canva</a>
 
 The best version of the project poster created, showcasing:
 - Project title
