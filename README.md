@@ -49,3 +49,9 @@ A detailed report summarizing the findings and analyses from the project, especi
 
 ### 5. Project Poster
 **File Name:** `SmartNyuki_Poster.pdf
+
+The best version of the project poster created, showcasing:
+- Project title
+- Key features
+- Visuals and diagrams
+- Contact information
